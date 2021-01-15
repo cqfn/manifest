@@ -13,6 +13,7 @@ to the best practices of open source community, including:
   * Branch names are informative, it is either linked to a ticket or describes feature verbosely
   * Continuous integration is a must (use [Travis](https://travis-ci.org/) or [GitHub Actions](https://github.com/features/actions))
   * Build automation and package management is a must
+  * At least all public entry points are documented using proper documentation tools (javadoc, etc)
   * Static analysis is a must
   * Your release procedure must be automated either via [@rultor](https://www.rultor.com) or [GitHub Actions](https://github.com/features/actions)
   * [`CONTRIBUTING.md`](https://docs.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors) must exist
