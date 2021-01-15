@@ -9,6 +9,8 @@ to the best practices of open source community, including:
 
   * Your product must be _somehow_ better than others on the market
   * Your `README` must list all known competitors and explain why they are worse
+  * Actual version of repository is merged to primary branch (`master` or `main`)
+  * Branch names are informative, it is either linked to a ticket or describes feature verbosely
   * Continuous integration is a must (use [Travis](https://travis-ci.org/) or [GitHub Actions](https://github.com/features/actions))
   * Build automation and package management is a must
   * Static analysis is a must
